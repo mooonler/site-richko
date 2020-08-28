@@ -1,0 +1,11 @@
+body{
+			font-size:2em;
+			background-image:url(sakura.jpg);
+			color:yellow;
+			background-size:cover;
+			text-align: center;
+			font-family: 'Oxygen Mono', monospace;
+		}
+		table{
+			margin-left: 8em;
+		}
